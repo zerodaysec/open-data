@@ -1,0 +1,49 @@
+Industry,Sector
+Agriculture,Crop Production
+Agriculture,Livestock
+Agriculture,Fishing and Aquaculture
+Energy,Oil and Gas Exploration
+Energy,Coal Mining
+Energy,Renewable Energy
+Manufacturing,Automotive
+Manufacturing,Aerospace
+Manufacturing,Textiles
+Manufacturing,Consumer Goods
+Manufacturing,Electronics
+Manufacturing,Machinery
+Healthcare,Hospitals and Clinics
+Healthcare,Pharmaceuticals
+Healthcare,Biotechnology
+Technology,Software Development
+Technology,Hardware Manufacturing
+Technology,IT Services
+Technology,E-commerce
+Technology,Telecommunications
+Finance,Banking
+Finance,Insurance
+Finance,Investment Banking
+Finance,Asset Management
+Real Estate,Residential Real Estate
+Real Estate,Commercial Real Estate
+Real Estate,Real Estate Investment Trusts (REITs)
+Entertainment,Film and Television
+Entertainment,Music
+Entertainment,Publishing
+Retail,Apparel
+Retail,Food and Beverage
+Retail,Electronics
+Transportation,Airlines
+Transportation,Railroads
+Transportation,Shipping and Logistics
+Services,Hospitality
+Services,Travel and Tourism
+Services,Consulting
+Education,K-12
+Education,Higher Education
+Education,Vocational and Training
+Government,Local
+Government,State/Provincial
+Government,Federal/National
+Non-Profit,Charities
+Non-Profit,Foundations
+Non-Profit,International Organizations

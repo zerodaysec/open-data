@@ -1,0 +1,4 @@
+Topic,URL
+AWS,https://status.aws.amazon.com/rss/all.rss
+Azure,https://status.dev.azure.com/_rss
+Google Cloud,https://status.cloud.google.com/feed.atom

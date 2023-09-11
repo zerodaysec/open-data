@@ -1,0 +1,26 @@
+tool_name,url,category,description
+Jenkins,https://www.jenkins.io/,Continuous Integration,An open-source automation server used for building, testing, and deploying code.
+Git,https://git-scm.com/,Version Control,A distributed version control system commonly used for source code management.
+Docker,https://www.docker.com/,Containerization,A platform that enables developers to develop, ship, and run applications in containers.
+Kubernetes,https://kubernetes.io/,Container Orchestration,An open-source system for automating the deployment, scaling, and management of containerized applications.
+Ansible,https://www.ansible.com/,Configuration Management,An open-source automation tool for configuration management, application deployment, and task automation.
+Puppet,https://puppet.com/,Configuration Management,An automation software that manages the configuration of systems, services, and resources.
+Terraform,https://www.terraform.io/,Infrastructure as Code,An open-source tool for building, versioning, and configuring infrastructure efficiently.
+CircleCI,https://circleci.com/,Continuous Integration,A cloud-native continuous integration and continuous delivery platform.
+Travis CI,https://travis-ci.org/,Continuous Integration,A cloud-based continuous integration service that integrates with GitHub repositories.
+TeamCity,https://www.jetbrains.com/teamcity/,Continuous Integration,A build management and continuous integration server from JetBrains.
+JIRA,https://www.atlassian.com/software/jira,Project Management,A popular issue and project tracking software developed by Atlassian.
+Slack,https://slack.com/,Communication,A messaging app for teams that makes it easy to communicate and collaborate in real-time.
+ELK Stack,https://www.elastic.co/what-is/elk-stack,Monitoring,A set of tools including Elasticsearch, Logstash, and Kibana, used for searching, analyzing, and visualizing log data in real-time.
+Grafana,https://grafana.com/,Monitoring,An open-source analytics and monitoring platform integrated with various data sources like Graphite, Elasticsearch, etc.
+Prometheus,https://prometheus.io/,Monitoring,An open-source monitoring toolkit specifically designed for reliability and scalability.
+Splunk,https://www.splunk.com/,Monitoring,A tool for searching, monitoring, and examining machine-generated data.
+Nagios,https://www.nagios.org/,Monitoring,An open-source computer-software application that monitors systems, networks, and infrastructure.
+Chef,https://www.chef.io/,Configuration Management,An automation tool that provides a way to define infrastructure as code.
+GitLab,https://about.gitlab.com/,Continuous Integration/Version Control,A web-based platform that provides Git repository management, code reviews, issue tracking, activity feeds, and more.
+Selenium,https://www.selenium.dev/,Testing,A portable framework for testing web applications.
+JFrog Artifactory,https://jfrog.com/artifactory/,Artifact Repository,A universal artifact repository manager.
+SonarQube,https://www.sonarqube.org/,Code Quality,An open-source platform for continuous inspection of code quality.
+Vagrant,https://www.vagrantup.com/,Virtualization,A tool for building and managing virtual machine environments in a single workflow.
+New Relic,https://newrelic.com/,Performance Monitoring,A cloud-based platform that helps you make more informed decisions with clear, real-time data.
+Bitbucket,https://bitbucket.org/,Version Control,A Git repository management solution designed for professional teams.
