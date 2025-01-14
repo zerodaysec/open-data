@@ -1,0 +1,13 @@
+"Principles", "Effects", "Modules",
+"P00/01: Trust Establishment", "Attestable Identity", "Attestable identity chaining", 
+"P03/04: Interoperability", "Adaptors at L1 and L2", "Interface and Trusted Adaptor Agents", 
+"P08/09: Test Tool Suites", "Stress (e.g. Node Failures, load), Hostile", "Test Tool Suites", 
+"P03/04: Agility and Adaptability", "Updates, Configurable platforms", "Configuration Manager", 
+"P01/02/07: Privacy   ", "Anonymity and shareability", "Activity Hiding", 
+"P11: Geo-architectural governance", "", "Governance Policy Modules", 
+"P03/04: Modularity", "Scalability", "Modular Framework for Universal Wallet", 
+"P06: Monitoring", "Traceability and Auditability", "Monitoring Tool Suites, * Trusted Agent(s)", 
+"P05: HA/DR", "Distribution of nodes across multiple cloud providers", "HA/DR, Coordination Agents", 
+"P05/09: Robustness and Resilience", "SLA requirements, refer to testing", "Service and Failure Metrics, Countermeasures and Monitoring", 
+"P11: Versatility", "Service use case coverage", "Use Case Starter Kits (Modular)", 
+
