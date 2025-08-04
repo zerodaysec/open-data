@@ -1,0 +1,16 @@
+renders N if degrees between 348.75 and 11.25
+renders NNE if degrees between 11.25 and 33.75
+renders NE if degrees between 33.75 and 56.25
+renders ENE if degrees between 56.25 and 78.75
+renders E if degrees between 78.75 and 101.25
+renders ESE if degrees between 101.25 and 123.75
+renders SE if degrees between 123.75 and 146.25
+renders SSE if degrees between 146.25 and 168.75
+renders S if degrees between 168.75 and 191.25
+renders SSW if degrees between 191.25 and 213.75
+renders SW if degrees between 213.75 and 236.25
+renders WSW if degrees between 236.25 and 258.75
+renders W if degrees between 258.75 and 281.25
+renders WNW if degrees between 281.25 and 303.75
+renders NW if degrees between 303.75 and 326.25
+renders NNW if degrees between 326.25 and 348.75
